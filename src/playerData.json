@@ -1,0 +1,74 @@
+[
+	{
+		"name": "Simon Adingra",
+		"nationality": "Cote D’Ivoire",
+		"jerseyNumber": 11,
+		"club": "Brighton",
+		"rating": 2,
+		"clubColor": "blue",
+		"countryLogo": "https://resources.premierleague.com/premierleague/flags/CI.png",
+		"playerImage": "https://resources.premierleague.com/premierleague/photos/players/250x250/p535818.png",
+		"position": "Forward",
+		"age": 24
+	},
+	{
+		"name": "Bukayo Saka",
+		"nationality": "England",
+		"jerseyNumber": 7,
+		"club": "Arsenal",
+		"rating": 4,
+		"clubColor": "red",
+		"countryLogo": "https://resources.premierleague.com/premierleague/flags/GB-ENG.png",
+		"playerImage": "https://resources.premierleague.com/premierleague/photos/players/250x250/p223340.png",
+		"position": "Forward",
+		"age": 22
+	},
+	{
+		"name": "Erling Haaland",
+		"nationality": "Norway",
+		"jerseyNumber": 9,
+		"club": "Manchester City",
+		"rating": 4,
+		"clubColor": "blue",
+		"countryLogo": "https://resources.premierleague.com/premierleague/flags/NO.png",
+		"playerImage": "https://resources.premierleague.com/premierleague/photos/players/250x250/p223094.png",
+		"position": "Forward",
+		"age": 20
+	},
+	{
+		"name": "N'Golo Kante",
+		"nationality": "France",
+		"jerseyNumber": 6,
+		"club": "Chelsea",
+		"rating": 4.5,
+		"clubColor": "blue",
+		"countryLogo": "https://resources.premierleague.com/premierleague/flags/FR.png",
+		"playerImage": "https://resources.premierleague.com/premierleague/photos/players/250x250/p116594.png",
+		"position": "Midfielder",
+		"age": 28
+	},
+	{
+		"name": "Riyad Mahrez",
+		"nationality": "Algeria",
+		"jerseyNumber": 9,
+		"club": "Manchester City",
+		"rating": 4.9,
+		"clubColor": "blue",
+		"countryLogo": "https://resources.premierleague.com/premierleague/flags/DZ.png",
+		"playerImage": "https://resources.premierleague.com/premierleague/photos/players/250x250/p103025.png",
+		"position": "Forward",
+		"age": 29
+	},
+	{
+		"name": "Joachim Andersen",
+		"nationality": "Denmark",
+		"jerseyNumber": 16,
+		"club": "Crystal Palace",
+		"rating": 3.9,
+		"clubColor": "blue",
+		"countryLogo": "https://resources.premierleague.com/premierleague/flags/DK.png",
+		"playerImage": "https://resources.premierleague.com/premierleague/photos/players/250x250/p174874.png",
+		"position": "Defender",
+		"age": 23
+	}
+]
